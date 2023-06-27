@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeMfTp1qxozieF+e4cDba9X2/OhpKHtSv6RK4l0TCr//X1EMesiPu/NWhQAilxQv481dEAFOesxKKdfIqm41ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batur\\Desktop\\wwww\\WSC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batur\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\batur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\batur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

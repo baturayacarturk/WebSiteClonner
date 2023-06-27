@@ -1,0 +1,8 @@
+C:\Users\batur\Desktop\WSC.exe
+C:\Users\batur\Desktop\WSC.dll
+C:\Users\batur\Desktop\WSC.deps.json
+C:\Users\batur\Desktop\WSC.runtimeconfig.json
+C:\Users\batur\Desktop\WSC.pdb
+C:\Users\batur\Desktop\HtmlAgilityPack.dll
+C:\Users\batur\Desktop\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\batur\Desktop\Microsoft.Extensions.DependencyInjection.Abstractions.dll
